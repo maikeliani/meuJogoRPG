@@ -1,0 +1,15 @@
+/home/maikel/Área de Trabalho/Mentoria 3/obj/Debug/net6.0/Mentoria 3.csproj.AssemblyReference.cache
+/home/maikel/Área de Trabalho/Mentoria 3/obj/Debug/net6.0/Mentoria 3.GeneratedMSBuildEditorConfig.editorconfig
+/home/maikel/Área de Trabalho/Mentoria 3/obj/Debug/net6.0/Mentoria 3.AssemblyInfoInputs.cache
+/home/maikel/Área de Trabalho/Mentoria 3/obj/Debug/net6.0/Mentoria 3.AssemblyInfo.cs
+/home/maikel/Área de Trabalho/Mentoria 3/obj/Debug/net6.0/Mentoria 3.csproj.CoreCompileInputs.cache
+/home/maikel/Área de Trabalho/Mentoria 3/bin/Debug/net6.0/Mentoria 3
+/home/maikel/Área de Trabalho/Mentoria 3/bin/Debug/net6.0/Mentoria 3.deps.json
+/home/maikel/Área de Trabalho/Mentoria 3/bin/Debug/net6.0/Mentoria 3.runtimeconfig.json
+/home/maikel/Área de Trabalho/Mentoria 3/bin/Debug/net6.0/Mentoria 3.dll
+/home/maikel/Área de Trabalho/Mentoria 3/bin/Debug/net6.0/ref/Mentoria 3.dll
+/home/maikel/Área de Trabalho/Mentoria 3/bin/Debug/net6.0/Mentoria 3.pdb
+/home/maikel/Área de Trabalho/Mentoria 3/obj/Debug/net6.0/Mentoria 3.dll
+/home/maikel/Área de Trabalho/Mentoria 3/obj/Debug/net6.0/ref/Mentoria 3.dll
+/home/maikel/Área de Trabalho/Mentoria 3/obj/Debug/net6.0/Mentoria 3.pdb
+/home/maikel/Área de Trabalho/Mentoria 3/obj/Debug/net6.0/Mentoria 3.genruntimeconfig.cache
